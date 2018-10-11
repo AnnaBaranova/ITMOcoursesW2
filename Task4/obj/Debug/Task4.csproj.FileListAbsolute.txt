@@ -1,0 +1,7 @@
+C:\Users\Аня\Desktop\дисциплины\2 курс\Курсы ИТМО\Week2\Task4\bin\Debug\Task4.exe.config
+C:\Users\Аня\Desktop\дисциплины\2 курс\Курсы ИТМО\Week2\Task4\bin\Debug\Task4.exe
+C:\Users\Аня\Desktop\дисциплины\2 курс\Курсы ИТМО\Week2\Task4\bin\Debug\Task4.pdb
+C:\Users\Аня\Desktop\дисциплины\2 курс\Курсы ИТМО\Week2\Task4\obj\Debug\Task4.csprojAssemblyReference.cache
+C:\Users\Аня\Desktop\дисциплины\2 курс\Курсы ИТМО\Week2\Task4\obj\Debug\Task4.csproj.CoreCompileInputs.cache
+C:\Users\Аня\Desktop\дисциплины\2 курс\Курсы ИТМО\Week2\Task4\obj\Debug\Task4.exe
+C:\Users\Аня\Desktop\дисциплины\2 курс\Курсы ИТМО\Week2\Task4\obj\Debug\Task4.pdb
